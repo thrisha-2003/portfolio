@@ -135,7 +135,7 @@ nav ul li a:hover::after{
     padding:20px;
     font-size:18px;
    
-    box-shadow: -4px 4px 40px rgb(241, 205, 205);
+    box-shadow: -4px 4px 20px rgb(241, 205, 205);
     background-color: rgb(241, 235, 233);
     color:black;
     font-weight:500;
